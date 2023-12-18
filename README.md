@@ -1,2 +1,2 @@
-# QtTree
-Tree for graphics application
+# Qt
+QTree and QCustomPlot for graphics application
